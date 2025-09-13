@@ -1,0 +1,6 @@
+# archivos de sistema
+.DS_Store
+
+# logs
+*.csv
+*.log
